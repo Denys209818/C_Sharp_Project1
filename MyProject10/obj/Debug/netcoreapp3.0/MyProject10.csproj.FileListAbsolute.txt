@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\bin\Debug\netcoreapp3.0\MyProject10.exe
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\bin\Debug\netcoreapp3.0\MyProject10.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\bin\Debug\netcoreapp3.0\MyProject10.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\bin\Debug\netcoreapp3.0\MyProject10.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\bin\Debug\netcoreapp3.0\MyProject10.dll
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\bin\Debug\netcoreapp3.0\MyProject10.pdb
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\obj\Debug\netcoreapp3.0\MyProject10.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\obj\Debug\netcoreapp3.0\MyProject10.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\obj\Debug\netcoreapp3.0\MyProject10.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\obj\Debug\netcoreapp3.0\MyProject10.dll
+C:\Users\Denis\Desktop\Новая папка C#\MyProject7\MyProject10\obj\Debug\netcoreapp3.0\MyProject10.pdb
